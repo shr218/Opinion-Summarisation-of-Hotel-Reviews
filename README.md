@@ -4,11 +4,11 @@ Opinion summarisation using aspect-based sentiment analysis is a powerful techni
 
 ## Getting started:
 Install all the files of this repository.
-The hotels.csv          ---->  consolidated dataset consisting of 540 hotels from 6 different countries.
-gen.ipnyb               ---->   to generate topics using LDA
-NER.ipnyb               ---->   to generate staff reviews individually.
-final.ipnyb             ---->  performs extractive summarisation,aspect-based sentiment analysis on the reviews and extraction of phrases.
-sentiment-opinions.csv  ----> result of aspect based sentiment analysis
+The hotels.csv          ---->	consolidated dataset consisting of 540 hotels from 6 different countries.
+gen.ipnyb               ---->	Generate topics using LDA
+NER.ipnyb               ---->	To generate staff reviews individually.
+final.ipnyb             ---->	Performs extractive summarisation,aspect-based sentiment analysis on the reviews and extraction of phrases.
+sentiment-opinions.csv  ---->	Result of aspect based sentiment analysis
 
 ## Usage: 
 change path of hotels.csv file to your path
