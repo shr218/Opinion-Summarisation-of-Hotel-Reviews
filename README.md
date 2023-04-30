@@ -14,6 +14,7 @@ sentiment-opinions.csv  ---->	Result of aspect based sentiment analysis.
 change path of hotels.csv file to your path
 
 ## Authors:
-Shreya Ajith
-Saira Marian Benoj
-Dishitha Mahendrakar
+Team 10  
+Shreya Ajith  
+Saira Marian Benoj  
+Dishitha Mahendrakar  
