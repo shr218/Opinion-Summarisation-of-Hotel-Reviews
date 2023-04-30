@@ -7,7 +7,7 @@ Install all the files of this repository.
 The hotels.csv        	---->	consolidated dataset consisting of 540 hotels from 6 different countries.  
 gen.ipnyb               ---->	Generate topics using LDA  
 NER.ipnyb               ---->	To generate staff reviews individually.  
-final.ipnyb             ---->	Performs extractive summarisation,aspect-based sentiment analysis on the reviews and extraction of phrases.  
+FinalCode.ipnyb             ---->	Performs extractive summarisation,aspect-based sentiment analysis on the reviews and extraction of phrases.  
 sentiment-opinions.csv  ---->	Result of aspect based sentiment analysis.  
 
 ## Usage: 
