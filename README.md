@@ -15,6 +15,6 @@ change path of hotels.csv file to your path
 
 ## Authors:
 **Team 10**  
-Shreya Ajith  
-Saira Marian Benoj  
-Dishitha Mahendrakar  
+~Shreya Ajith  
+~Saira Marian Benoj  
+~Dishitha Mahendrakar  
